@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\NEW\Desktop\LASYA\lasyaepam\.metadata\.plugins\org.eclipse.jdt.core
+2559877311.index
+1889889422.index
+1671692264.index
+1880800679.index

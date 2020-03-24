@@ -1,0 +1,61 @@
+2020-03-24 20:52:00,557 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-03-24 20:54:14,404 [Worker-1: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\NEW\Desktop\LASYA\lasyaepam\tddjunit\pom.xml
+2020-03-24 20:54:16,587 [Worker-1: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.epam:tddjunit:0.0.1-SNAPSHOT @ C:\Users\NEW\Desktop\LASYA\lasyaepam\tddjunit\pom.xml.
+2020-03-24 20:54:17,501 [Worker-1: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tddjunit/src/main/java
+2020-03-24 20:54:17,535 [Worker-1: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tddjunit/src/test/java
+2020-03-24 20:54:18,149 [Worker-1: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2020-03-24 20:54:21,007 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 20:54:21,007 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\LASYA\lasyaepam\tddjunit\src\main\resources
+2020-03-24 20:54:21,011 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 20:54:21,011 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\LASYA\lasyaepam\tddjunit\src\test\resources
+2020-03-24 20:54:51,086 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 20:54:51,087 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\LASYA\lasyaepam\tddjunit\src\main\resources
+2020-03-24 20:54:51,091 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 20:54:51,091 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\LASYA\lasyaepam\tddjunit\src\test\resources
+2020-03-24 20:54:52,186 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 20:54:52,186 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\LASYA\lasyaepam\tddjunit\src\main\resources
+2020-03-24 20:54:52,220 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 20:54:52,221 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\LASYA\lasyaepam\tddjunit\src\test\resources
+2020-03-24 20:58:35,913 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 20:58:35,914 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\LASYA\lasyaepam\tddjunit\src\main\resources
+2020-03-24 20:58:35,934 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 20:58:35,948 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\LASYA\lasyaepam\tddjunit\src\test\resources
+2020-03-24 21:03:30,632 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 21:03:30,632 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\LASYA\lasyaepam\tddjunit\src\main\resources
+2020-03-24 21:03:30,705 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 21:03:30,743 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\LASYA\lasyaepam\tddjunit\src\test\resources
+2020-03-24 21:03:51,740 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 21:03:51,740 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\LASYA\lasyaepam\tddjunit\src\main\resources
+2020-03-24 21:03:51,764 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 21:03:51,783 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\LASYA\lasyaepam\tddjunit\src\test\resources
+2020-03-24 21:14:28,665 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 21:14:28,667 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\LASYA\lasyaepam\tddjunit\src\main\resources
+2020-03-24 21:14:28,680 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 21:14:28,689 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\LASYA\lasyaepam\tddjunit\src\test\resources
+2020-03-24 21:15:52,927 [Worker-10: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 21:15:52,927 [Worker-10: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\LASYA\lasyaepam\tddjunit\src\main\resources
+2020-03-24 21:15:52,944 [Worker-10: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 21:15:52,954 [Worker-10: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\LASYA\lasyaepam\tddjunit\src\test\resources
+2020-03-24 21:16:24,355 [Worker-13: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 21:16:24,356 [Worker-13: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\LASYA\lasyaepam\tddjunit\src\main\resources
+2020-03-24 21:16:24,368 [Worker-13: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 21:16:24,378 [Worker-13: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\LASYA\lasyaepam\tddjunit\src\test\resources
+2020-03-24 21:21:39,700 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 21:21:39,701 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\LASYA\lasyaepam\tddjunit\src\main\resources
+2020-03-24 21:21:39,736 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 21:21:39,751 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\LASYA\lasyaepam\tddjunit\src\test\resources
+2020-03-24 21:23:32,653 [Worker-11: Launching Result] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 21:23:32,653 [Worker-11: Launching Result] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\LASYA\lasyaepam\tddjunit\src\main\resources
+2020-03-24 21:23:32,675 [Worker-11: Launching Result] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 21:23:32,714 [Worker-11: Launching Result] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\LASYA\lasyaepam\tddjunit\src\test\resources
+2020-03-24 21:27:15,542 [Worker-19: Launching Result] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 21:27:15,543 [Worker-19: Launching Result] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\LASYA\lasyaepam\tddjunit\src\main\resources
+2020-03-24 21:27:15,556 [Worker-19: Launching Result] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 21:27:15,564 [Worker-19: Launching Result] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\LASYA\lasyaepam\tddjunit\src\test\resources
+2020-03-24 21:29:47,731 [Worker-20: Launching Result] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 21:29:47,732 [Worker-20: Launching Result] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\LASYA\lasyaepam\tddjunit\src\main\resources
+2020-03-24 21:29:47,750 [Worker-20: Launching Result] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 21:29:47,767 [Worker-20: Launching Result] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\LASYA\lasyaepam\tddjunit\src\test\resources
+2020-03-24 21:30:40,474 [Worker-23: Launching Result] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 21:30:40,474 [Worker-23: Launching Result] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\NEW\Desktop\LASYA\lasyaepam\tddjunit\src\main\resources
+2020-03-24 21:30:40,490 [Worker-23: Launching Result] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
